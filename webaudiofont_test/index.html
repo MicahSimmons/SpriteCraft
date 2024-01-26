@@ -1,0 +1,29 @@
+<html>
+	<head>
+    <title>Sampled Audio Hello World</title>
+  </head>
+	<body>
+    <script src="MIDIFile.js"></script>
+		<script src='https://surikov.github.io/webaudiofont/npm/dist/WebAudioFontPlayer.js'></script>
+    <script src="bgm_sampled.js"></script>
+    <script>
+      //loadSongFile("../music/MarsTheBringerOfWar.mid");
+      //loadSongFile("../music/brandenburg_three_bach.mid");
+      function tick(bgm) {
+        bgm.update();
+        window.requestAnimationFrame((t) => {
+				  tick(bgm);
+			  });
+      }
+
+      function play() {
+        var bgm = new BgmSampled("../music/brandenburg_three_bach.mid");
+        bgm.init();
+        bgm.preload();
+        bgm.create();
+        tick(bgm);
+      }
+    </script>
+		<p><a href='javascript:play();'>Hello, world!</a></p>
+	</body>
+</html>

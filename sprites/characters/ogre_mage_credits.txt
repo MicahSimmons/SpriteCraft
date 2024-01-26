@@ -1,0 +1,30 @@
+Authors: Lanea Zimmerman (Sharm), Stephen Challener (Redshrike), Manuel Riecke (MrBeast), Charles Sanchez (CharlesGabriel), Zi Ye, Matthew Krohn (makrohn), David Conway Jr. (JaidynReiman), Marcel van de Steeg (MadMarcel), Johannes Sjölund (wulax), ElizaWy, bluecarrot16, Nila122
+
+- body/female/orcs/green_1.png: by Lanea Zimmerman (Sharm), Stephen Challener (Redshrike), Manuel Riecke (MrBeast), Charles Sanchez (CharlesGabriel), Zi Ye, Matthew Krohn (makrohn), David Conway Jr. (JaidynReiman), Marcel van de Steeg (MadMarcel), Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/sinbad-the-ogre
+    - https://opengameart.org/content/four-characters-my-lpc-entries
+    - https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle
+    - https://opengameart.org/content/lpc-ladies
+
+- hair/high_ponytail/female/raven.png: by ElizaWy, bluecarrot16. License(s): OGA-BY 3.0. 
+    - https://opengameart.org/content/lpc-hair
+
+- hat/accessory/plumage/female/pink.png: by ElizaWy. License(s): OGA-BY 3.0, CC-BY-SA 3.0, CC-BY-SA 4.0, GPL 3.0 . 
+    - https://opengameart.org/content/lpc-realistic-helmet-pack
+
+- facial/earring/female/gold.png: by bluecarrot16. License(s): CC-BY-SA 3.0. 
+    - https://opengameart.org/content/lpc-pirates
+
+- bauldron/female/brown.png: by Nila122. License(s): CC-BY-SA 3.0, GPL 2.0, GPL 3.0. 
+    - https://opengameart.org/content/more-lpc-clothes-and-hair
+
+- bracers/female/9.png: by Matthew Krohn (makrohn), Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+- torso/waist/sash/female/red.png: by bluecarrot16, Nila122. License(s): CC-BY-SA 3.0, GPL 2.0, GPL 3.0. 
+    - https://opengameart.org/content/more-lpc-clothes-and-hair
+    - https://opengameart.org/content/lpc-pirates
+
+- feet/sandals/female/brown.png: by Nila122, David Conway Jr. (JaidynReiman), Matthew Krohn (makrohn), Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 2.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-roman-armor

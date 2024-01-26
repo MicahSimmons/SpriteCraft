@@ -1,0 +1,44 @@
+Authors: drjamgo@hotmail.com, Stephen Challener (Redshrike), Johannes Sjölund (wulax), Benjamin K. Smith (BenCreating), Sander Frenken (castelonia), Thane Brimhall (pennomi), Matthew Krohn (makrohn), kcilds/Rocetti/Eredah, Michael Whitlock (bigbeargames), David Conway Jr. (JaidynReiman), bluecarrot16, Nila122
+
+- shadow/adult/shadow.png: by drjamgo@hotmail.com. License(s): CC0. 
+    - https://opengameart.org/content/shadow-for-lpc-sprite
+
+- body/male/human/olive.png: by Stephen Challener (Redshrike), Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+- body/wound/eye.png: by Benjamin K. Smith (BenCreating), Sander Frenken (castelonia). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-zombie
+
+- head/nose/button/male/dark.png: by Thane Brimhall (pennomi), Matthew Krohn (makrohn). License(s): GPL 3.0, CC-BY-SA 3.0. 
+    - https://opengameart.org/content/lpc-base-character-expressions
+
+- hair/spiked/male/ginger.png: by kcilds/Rocetti/Eredah. License(s): CC-BY 4.0. 
+    - https://opengameart.org/content/eredah-rpg-character-base-48x64-ongoing
+    - https://opengameart.org/content/lpc-hair
+
+- torso/chainmail/male/gray.png: by Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+- torso/armour/plate/male/11.png: by Michael Whitlock (bigbeargames), Matthew Krohn (makrohn), Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. recolor of torso/armour/leather/female/brown.png
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+    - https://opengameart.org/content/lpc-combat-armor-for-women
+
+- cape/solid/male/blue.png: by David Conway Jr. (JaidynReiman). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more
+
+- cape/solid_behind/blue.png: by David Conway Jr. (JaidynReiman). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more
+
+- legs/armour/male/8.png: by Michael Whitlock (bigbeargames), Matthew Krohn (makrohn), Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+- feet/boots/male/charcoal.png: by bluecarrot16, Nila122, Johannes Sjölund (wulax), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 2.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-clothes-and-hair
+    - https://opengameart.org/content/lpc-santa
+
+- weapon/thrust_oversize/male/universal/halberd.png: by Benjamin K. Smith (BenCreating), Sander Frenken (castelonia). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-weapons
+
+- weapon/thrust_oversize/male/halberd.png: by Benjamin K. Smith (BenCreating), Sander Frenken (castelonia). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-weapons

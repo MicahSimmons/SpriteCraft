@@ -1,0 +1,46 @@
+Authors: drjamgo@hotmail.com, Stephen Challener (Redshrike), Johannes Sjölund (wulax), Benjamin K. Smith (BenCreating), Sander Frenken (castelonia), Thane Brimhall (pennomi), Matthew Krohn (makrohn), bluecarrot16, Nila122, Michael Whitlock (bigbeargames), David Conway Jr. (JaidynReiman)
+
+- shadow/adult/shadow.png: by drjamgo@hotmail.com. License(s): CC0. 
+    - https://opengameart.org/content/shadow-for-lpc-sprite
+
+- body/male/human/zombie.png: by Stephen Challener (Redshrike), Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. somebody did this recolor but I can't find it. Same for female/zombie
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+- body/wound/brain.png: by Benjamin K. Smith (BenCreating), Sander Frenken (castelonia). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-zombie
+
+- body/wound/ribs.png: by Benjamin K. Smith (BenCreating), Sander Frenken (castelonia). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-zombie
+
+- head/nose/button/male/dark.png: by Thane Brimhall (pennomi), Matthew Krohn (makrohn). License(s): GPL 3.0, CC-BY-SA 3.0. 
+    - https://opengameart.org/content/lpc-base-character-expressions
+
+- eyes/male/red.png: by Matthew Krohn (makrohn), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+
+- facial/eyepatch/male/eyepatch.png: by bluecarrot16. License(s): CC-BY-SA 3.0. 
+    - https://opengameart.org/content/lpc-pirates
+
+- bauldron/male/brown.png: by Nila122. License(s): CC-BY-SA 3.0, GPL 2.0, GPL 3.0. 
+    - https://opengameart.org/content/more-lpc-clothes-and-hair
+
+- gloves/male/7.png: by Michael Whitlock (bigbeargames), Matthew Krohn (makrohn), Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+- torso/bandage/male/white.png: by Nila122. License(s): CC-BY-SA 3.0, GPL 2.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-bandages
+
+- legs/pants/male/red.png: by David Conway Jr. (JaidynReiman), Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+- feet/boots/male/charcoal.png: by bluecarrot16, Nila122, Johannes Sjölund (wulax), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 2.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-clothes-and-hair
+    - https://opengameart.org/content/lpc-santa
+
+- weapon/thrust_oversize/male/universal/halberd.png: by Benjamin K. Smith (BenCreating), Sander Frenken (castelonia). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-weapons
+
+- weapon/thrust_oversize/male/halberd.png: by Benjamin K. Smith (BenCreating), Sander Frenken (castelonia). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-weapons

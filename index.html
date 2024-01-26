@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>CS42 Week09</title>
+
+  <link href="./style/style.css" rel="stylesheet">
+</head>
+
+<body>
+  <!--div class='fontLoader' style='font-family:titles;'>Test Text</div-->
+  <!--div class='fontLoader' style='font-family:prompts;'>Test Text</div-->
+
+  <div class="gamecontainer">
+    <div class="gamegrid" id="tron"></div>
+  </div>
+  
+  <!--
+    <script src="./resources/MidiConvert.js"></script>
+    <script src="./resources/Tone.js"></script>
+    <script src='./resources/webaudio-tinysynth.js'></script>
+    <script src="./scripts/obj_bgm.js"></script>
+  -->
+  <script src="./resources/MIDIFile.js"></script>
+  <script src='https://surikov.github.io/webaudiofont/npm/dist/WebAudioFontPlayer.js'></script>
+  <script src="./scripts/bgm_sampled.js"></script>
+
+  <script src="./resources/phaser.min.js"></script>
+  <script src="./resources/easystar-0.4.4.min.js"></script>
+
+  <script src="./scripts/utils.js"></script>
+  <script src="./scripts/scene_opening.js"></script>
+
+  <script src="./scripts/obj_grid.js"></script>
+  <script src="./scripts/obj_lpc_chars.js"></script>
+  <script src="./scripts/obj_soldiers.js"></script>
+  <script src="./scripts/obj_grp_army.js"></script>
+  <script src="./scripts/obj_controls.js"></script>
+  <script src="./scripts/scene_game.js"></script>
+  <script src="./scripts/scene_ending.js"></script>
+  <script src="./scripts/main.js"></script>
+  <script>
+    var game_obj = new Game("tron");
+  </script>
+</body>
+
+</html>

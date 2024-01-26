@@ -1,0 +1,22 @@
+Authors: Michael Whitlock (bigbeargames), Rhimlock, Johannes Sjölund (wulax), bluecarrot16, Thane Brimhall (pennomi), laetissima, Daniel Eddeland (daneeklu), gr3yh47
+
+- body/skeleton/gray.png: by Michael Whitlock (bigbeargames), Rhimlock, Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. skeleton recolor
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+    - https://opengameart.org/content/lpc-skeleton
+
+- hat/pirate/bonnie_feather/male/red.png: by bluecarrot16. License(s): OGA-BY 3.0. 
+    - https://opengameart.org/content/lpc-pirates
+
+- facial/monocle.png: by bluecarrot16, Thane Brimhall (pennomi), laetissima. License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/clothing-facial-features-and-ui-elements
+    - https://opengameart.org/content/lpc-gentleman
+
+- torso/jacket/collared/male/maroon.png: by bluecarrot16. License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-gentleman
+    - https://opengameart.org/content/lpc-pirates
+
+- quiver/quiver.png: by Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+- weapon/bow/6.png: by Daniel Eddeland (daneeklu), gr3yh47, Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0. recurve blue
+    - https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident

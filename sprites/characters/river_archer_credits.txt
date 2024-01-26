@@ -1,0 +1,47 @@
+Authors: Stephen Challener (Redshrike), Johannes Sjölund (wulax), Matthew Krohn (makrohn), Nila122, ElizaWy, bluecarrot16, Sander Frenken (castelonia), Michael Whitlock (bigbeargames), Thane Brimhall (pennomi), Lanea Zimmerman (Sharm), David Conway Jr. (JaidynReiman), Joe White, Daniel Eddeland (daneeklu), gr3yh47
+
+- body/female/human/peach.png: by Stephen Challener (Redshrike), Johannes Sjölund (wulax), Matthew Krohn (makrohn). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+    - https://opengameart.org/content/lpc-ladies
+
+- hair/braid/female/blue.png: by Nila122, ElizaWy. License(s): CC-BY-SA 3.0, GPL 3.0, GPL 2.0. 
+    - https://opengameart.org/content/3-hairs-for-lpc
+    - https://opengameart.org/content/lpc-hair
+
+- hat/visor/round_raised/female/steel.png: by bluecarrot16, ElizaWy, Sander Frenken (castelonia). License(s): OGA-BY 3.0, CC-BY-SA 4.0, CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-realistic-helmet-pack
+    - https://opengameart.org/content/lpc-helmets-mega-pack
+
+- facial/sunglasses.png: by Michael Whitlock (bigbeargames), Thane Brimhall (pennomi). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-base-character-expressions
+
+- shoulders/leather/female/brown.png: by Matthew Krohn (makrohn), Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+- gloves/female/2.png: by Michael Whitlock (bigbeargames), Matthew Krohn (makrohn), Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. metal gloves steel?
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+- torso/clothes/corset/female/navy.png: by ElizaWy, Nila122. License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-clothes-and-hair
+    - https://opengameart.org/content/lpc-7-womens-shirts
+
+- torso/clothes/blouse/female/teal.png: by ElizaWy, Lanea Zimmerman (Sharm). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-7-womens-shirts
+
+- legs/pants/female/brown.png: by bluecarrot16, David Conway Jr. (JaidynReiman), Joe White, Matthew Krohn (makrohn), Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+- feet/boots/female/gray.png: by Nila122, Johannes Sjölund (wulax), Stephen Challener (Redshrike). License(s): CC-BY-SA 3.0, GPL 2.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-clothes-and-hair
+
+- quiver/quiver.png: by Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+- weapon/bow/8.png: by Daniel Eddeland (daneeklu), gr3yh47, Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0. recurve yellow
+    - https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident
+
+- ammo/arrow.png: by Johannes Sjölund (wulax). License(s): CC-BY-SA 3.0, GPL 3.0. 
+    - https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
